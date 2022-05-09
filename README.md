@@ -1,0 +1,1 @@
+Creation of a single page in React without using JSX
